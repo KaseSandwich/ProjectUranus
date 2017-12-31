@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectUranus_Game", "ProjectUranus_Game.csproj", "{C6FD7174-ABEB-FF4A-A390-76EB0610C69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FD7174-ABEB-FF4A-A390-76EB0610C69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FD7174-ABEB-FF4A-A390-76EB0610C69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FD7174-ABEB-FF4A-A390-76EB0610C69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FD7174-ABEB-FF4A-A390-76EB0610C69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
